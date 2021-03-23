@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T20:53:18.604Z" agent="5.0 (X11)" etag="FRAiikyQbs06o6tYHa86" compressed="false" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T20:56:23.194Z" agent="5.0 (X11)" etag="4bTSI3RmllMi8GWv__zf" compressed="false" version="14.5.1" type="github" pages="2">
   <diagram id="_E0ixDRon3DRBLl7LCNT" name="David B.">
     <mxGraphModel dx="1130" dy="1079" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -193,6 +193,17 @@
         <mxCell id="c2aaLGEQ_5WEYPLhfVNE-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontColor=#696969;fontSize=13;" parent="c2aaLGEQ_5WEYPLhfVNE-58" source="c2aaLGEQ_5WEYPLhfVNE-36" target="c2aaLGEQ_5WEYPLhfVNE-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mlNPpf5Jyd6MwZ2kGrwy-2" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;David Benqué&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;CryptPad&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="10" y="730" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="17VkfU8ITVYtqLUNPcmg" name="New">
+    <mxGraphModel dx="1130" dy="1079" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="i9Dwg8V8jamnLEWPS_B--0" />
+        <mxCell id="i9Dwg8V8jamnLEWPS_B--1" parent="i9Dwg8V8jamnLEWPS_B--0" />
       </root>
     </mxGraphModel>
   </diagram>
